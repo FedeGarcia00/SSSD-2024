@@ -15,7 +15,40 @@ Desarrollo de un sistema distribuido con el objetivo de simular un sistema de mo
 Requisitos:
 - Node.js v20 o superior instalado.
 
-1) Ir al directorio de la API, ("cd api_ejs" o "cd api_vjs"
+1) Ir al directorio de la API, ("cd api_vjs")
 2) Ejecutar npm install para instalar las dependencias en el package.json
 3) Ejecutar npm run start para correr el script "start" del package.json
-4) Abrir un navegador web y acceder a http://localhost:3000
+4) Ir al directorio del cliente, ("cd cliente")
+5) Ejecutar npm install para instalar las dependencias en el package.json
+6) Ejecutar npm run start para correr el script "start" del package.json
+
+
+## Estructura
+```
+SSDD-2024
+├─ api_vjs
+│  ├─ controllers
+│  │  └─ VacasController.js
+│  ├─ db
+│  │  └─ vacas.json
+│  ├─ index.js
+│  ├─ package-lock.json
+│  ├─ package.json
+│  └─ repositories
+│     └─ VacasRepository.js
+├─ cliente
+│  ├─ index.html
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ server.js
+│  ├─ static
+│  │  ├─ css
+│  │  │  └─ style.css
+│  │  └─ js
+│  │     ├─ index.js
+│  │     └─ pages
+│  │        └─ HomePage.js
+│  └─ _redirects
+└─ README.md
+
+```

@@ -1,0 +1,16 @@
+{
+  "name": "ssdd-2024",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Desarrollo de un sistema distribuido con el objetivo de simular un sistema de monitoreo y control de ganado, ofreciendo una solución moderna para los dueños de recursos ganaderos que reemplace los métodos de inspección visual, existentes en muchos negocios rurales.",
+  "main": "server.js",
+  "scripts": {
+     "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.7"
+  }
+}

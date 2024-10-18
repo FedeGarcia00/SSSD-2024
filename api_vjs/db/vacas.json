@@ -1,0 +1,57 @@
+[
+    {
+        "id": "c0f1c891-ef3c-4d25-8a52-ec47f9642763",
+        "name": "LOLA",
+        "id_collar": "8e37c92b-1b0c-4e76-931e-fb9d05fce2a1"
+    },
+    {
+        "id": "cb6e71f2-9e2f-4a15-9be7-35402f57f511",
+        "name": "MARGARITA",
+        "id_collar": "4859a97f-c28e-47af-a6b8-298f30c9d302"
+    },
+    {
+        "id": "a45e1e72-591e-4d76-8176-3f5ed920d86d",
+        "name": "BEATRIZ",
+        "id_collar": "e4e5cc4f-74bc-4c61-805b-457a43736201"
+    },
+    {
+        "id": "4f2d69a4-706b-4d3f-8fd6-52f3c3a3a392",
+        "name": "ISABEL",
+        "id_collar": "9e124c8e-2d3c-462f-bc4e-fc835b882f40"
+    },
+    {
+        "id": "79eb0486-e1b7-47b7-9bb5-c70b4f6c3b9f",
+        "name": "DOLLY",
+        "id_collar": "bc92a8c7-e2af-4638-977c-cc83e8b05ec2"
+    },
+    {
+        "id": "57156e9e-e26b-43d2-8eb8-0e9d1ae95dc7",
+        "name": "CARMEN",
+        "id_collar": "d129cbf4-fc92-44c2-9c16-6cfc1fddce88"
+    },
+    {
+        "id": "e3e35d9f-25e8-431f-a236-e1d23a08406e",
+        "name": "BRENDA",
+        "id_collar": "dc5d4d7f-f54e-4b58-9f84-78ae554a8f73"
+    },
+    {
+        "id": "a249b1a7-3172-4a02-9963-9c3880e3d62e",
+        "name": "PENELOPE",
+        "id_collar": "36f18f8c-6fc3-44d0-8024-d051b10a57bb"
+    },
+    {
+        "id": "46f1f391-7e8b-4e2d-9ee5-244a95b73cc8",
+        "name": "NINA",
+        "id_collar": "f7ef7c49-08ae-4d92-a97e-23a0e4568169"
+    },
+    {
+        "id": "56a04df2-08c6-4111-8530-f191c1fcb7d5",
+        "name": "LUISA",
+        "id_collar": "e673f4cc-bd75-4478-b35d-4e61585e1b82"
+    },
+    {
+        "id": "73a7387c-1ff1-4918-a6f7-7f401b72ccaf",
+        "name": "VIOLETA",
+        "id_collar": "eb418f15-00b2-4d46-a8d4-494f8db7f4a5"
+    }
+]
